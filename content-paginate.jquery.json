@@ -1,0 +1,26 @@
+{
+  "name": "content-paginate",
+  "title": "Content Paginate",
+  "description": "A plugin that paginates web Content based on the available height",
+  "keywords": [ "paginate","height","content" ,"pages","pagination"],
+  "version": "1.0.0",
+  "author": {
+    "name": "Hezron Obuchele & Joseph Bosire",
+    "email": "kashboss@gmail.com"
+  },
+  "licenses": 
+  [
+    {
+      "type": "MIT",
+      "url": "https://github.com/whoever/jquery-content-paginate/LICENSE"
+    }
+  ],
+  "bugs": "https://github.com/whoever/jquery-content-paginate/issues",
+  "docs": "https://whoever.github.com/jquery-content-paginate",
+  "homepage": "https://whoever.github.com/jquery-content-paginate",
+  "download": "https://whoever.github.com/jquery-content-paginate",
+  "dependencies": 
+  {
+    "jquery": ">1.5"
+  }
+}
