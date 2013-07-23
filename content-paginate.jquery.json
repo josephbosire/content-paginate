@@ -2,8 +2,8 @@
   "name": "content-paginate",
   "title": "Content Paginate",
   "description": "A plugin that paginates web Content based on the available height",
-  "keywords": [ "paginate","height","content" ,"pages","pagination"],
-  "version": "1.0.0",
+  "keywords": [ "paginate","height","content" ,"pages","pagination",'text'],
+  "version": "1.0.2",
   "author": {
     "name": "Hezron Obuchele & Joseph Bosire",
     "email": "kashboss@gmail.com"
@@ -14,7 +14,7 @@
             "email": "kashboss@gmail.com"
         }
           {
-            "name": "Hezron Obuchele"          
+            "name": "Hezron Obuchele"         
         }
     ],
   "licenses": 
